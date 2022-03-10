@@ -1,0 +1,974 @@
+{
+    "Center For Social Security Action & Research (CSSAR)": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Mazi Sainik Shikshan Ani Swasthya Kalyan Sanstha": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Annamrita Foundation": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "JK MAASS Foundation": {
+        "type": "Differently Abled ",
+        "state": " Tamil Nadu"
+    },
+    "Mobile Creches for Working Mothers Children": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "National Society for Equal Opportunities for the Handicapped": {
+        "type": "Differently Abled ",
+        "state": " Maharashtra"
+    },
+    "Navjyoti India Foundation": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Pahal Jan Sahyog Vikas Sansthan": {
+        "type": "Health ",
+        "state": " Madhya Pradesh"
+    },
+    "Sankara Nethralaya": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "Saath (Initiatives for Equity in Development)": {
+        "type": "Children ",
+        "state": " Gujarat"
+    },
+    "Salaam Bombay Foundation": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Head Held High Foundation": {
+        "type": "Education ",
+        "state": " Bangalore"
+    },
+    "Senior Citizens Bangalore": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Akhanda Seva for International Shanti (Operation Shanti)": {
+        "type": "Children ",
+        "state": " Karnataka"
+    },
+    "Ashadeep Association": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "SGBS Trust": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Bani Mandir": {
+        "type": "Elderly ",
+        "state": " West Bengal"
+    },
+    "Balajee Sewa Sansthan": {
+        "type": "Environment ",
+        "state": " Uttarakhand"
+    },
+    "Society For Child Development": {
+        "type": "Differently Abled ",
+        "state": " Delhi"
+    },
+    "Swasth Foundation": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Abhoy Mission": {
+        "type": "Differently Abled ",
+        "state": " Tripura"
+    },
+    "ICARE Eye Hospital & Post Graduate Institute": {
+        "type": "Health ",
+        "state": " Uttar Pradesh"
+    },
+    "Tropical Research & Development Centre (TRDC)": {
+        "type": "Environment ",
+        "state": " Karnataka"
+    },
+    "Peepul": {
+        "type": "Education ",
+        "state": " New Delhi"
+    },
+    "SankalpTaru Foundation": {
+        "type": "Environment ",
+        "state": " PAN India"
+    },
+    "Bhumi": {
+        "type": "Children ",
+        "state": " Tamil Nadu"
+    },
+    "Christel House India": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Bhagini Nivedita Pratishthan Pune": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Bhavada Devi Memorial Philanthropic Trust (SENEH)": {
+        "type": "Elderly ",
+        "state": " Assam"
+    },
+    "Etasha Society": {
+        "type": "Livelihoods ",
+        "state": " Delhi"
+    },
+    "Ummeed Child Development Centre": {
+        "type": "Differently Abled ",
+        "state": " Maharashtra"
+    },
+    "Catalysts For Social Action": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Chaithanya Educational and Rural Development Society": {
+        "type": "Livelihoods ",
+        "state": " Andhra Pradesh"
+    },
+    "Sankara Eye Foundation India": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "Diya Foundation (DIYA)": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Don Bosco Navajeevan": {
+        "type": "Children ",
+        "state": " Telangana"
+    },
+    "Shree Navchetan Andhjan Mandal": {
+        "type": "Differently Abled ",
+        "state": " Gujarat"
+    },
+    "DEAN Foundation, Hospice and Palliative Care Centre": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "Deepalaya": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Gram Vikas Trust": {
+        "type": "Education ",
+        "state": " Gujarat"
+    },
+    "Action for Development of Demos(ADD)": {
+        "type": "Elderly ",
+        "state": " Bihar"
+    },
+    "Kailash Satyarthi Children s Foundation": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "India Vision Foundation": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Kidpower India": {
+        "type": "Differently Abled ",
+        "state": " Andhra Pradesh"
+    },
+    "Apna Janakalyan": {
+        "type": "Health ",
+        "state": " Karnataka"
+    },
+    "Apna Ghar Ashram, Bharatpur": {
+        "type": "Women ",
+        "state": " Rajasthan"
+    },
+    "Milaan Be The Change": {
+        "type": "Education ",
+        "state": " Uttar Pradesh"
+    },
+    "Ashadeep": {
+        "type": "Women ",
+        "state": " Assam"
+    },
+    "ASHWINI": {
+        "type": "Health ",
+        "state": " Andhra Pradesh"
+    },
+    "Sankara Eye Hospital, Pammal": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "ASSIST": {
+        "type": "Environment ",
+        "state": " Andhra Pradesh"
+    },
+    "Sabuj Sangha": {
+        "type": "Health ",
+        "state": " West Bengal"
+    },
+    "SOS Childrens Villages of India": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Teach For India": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Blind Peoples Association, India": {
+        "type": "Health ",
+        "state": " Gujarat"
+    },
+    "Sarthak Prayas": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Maria Seva Sangha": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Tomorrows Foundation": {
+        "type": "Education ",
+        "state": " West Bengal"
+    },
+    "Charutar Arogya Mandal": {
+        "type": "Health ",
+        "state": " Gujarat"
+    },
+    "Turnstone Global": {
+        "type": "Children ",
+        "state": " West Bengal"
+    },
+    "UDAAN India Foundation": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Magic Bus India Foundation": {
+        "type": "Education ",
+        "state": " Mumbai"
+    },
+    "Ashray Akruti": {
+        "type": "Differently Abled ",
+        "state": " Telangana"
+    },
+    "Sai Kripa": {
+        "type": "Children ",
+        "state": " Uttar Pradesh"
+    },
+    "Child Nurture and Relief Kashmir (CHINAR Kashmir)": {
+        "type": "Education ",
+        "state": " Jammu and Kashmir"
+    },
+    "Foundation for Excellence India Trust (FFE India Trust)": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Make A Difference": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Amar Seva Sangam": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Towards Future": {
+        "type": "Education ",
+        "state": " West Bengal"
+    },
+    "Adarsh Charitable Trust": {
+        "type": "Differently Abled ",
+        "state": " Kerala"
+    },
+    "Vathsalya Charitable Trust": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "NIIT Foundation": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Dr Shroff s Charity Eye Hospital": {
+        "type": "Health ",
+        "state": " Delhi"
+    },
+    "Gramin Vikas Vigyan Samiti": {
+        "type": "Environment ",
+        "state": " Rajasthan"
+    },
+    "Apnalaya": {
+        "type": "Women ",
+        "state": " Maharashtra"
+    },
+    "Haritika": {
+        "type": "Livelihoods ",
+        "state": " Madhya Pradesh"
+    },
+    "Chintan": {
+        "type": "Environment ",
+        "state": " Karnataka"
+    },
+    "Community Aid & Sponsorship Programme (CASP)": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Priyadarshini Seva Mandali": {
+        "type": "Health ",
+        "state": " Telangana"
+    },
+    "Indian Cancer Society": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Delhi Council for Child Welfare": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Daudnagar Organisation for Rural Development": {
+        "type": "Health ",
+        "state": " Bihar"
+    },
+    "SAHYOG - Care For You": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Empowering Minds Society for Research and Development": {
+        "type": "Education ",
+        "state": " Uttar Pradesh"
+    },
+    "Grace Peter Charitable Trust": {
+        "type": "Children ",
+        "state": " Tamil Nadu"
+    },
+    "Indian Dreams Foundation": {
+        "type": "Education ",
+        "state": " Uttar Pradesh"
+    },
+    "Foundation for Mother and Child Health": {
+        "type": "Women ",
+        "state": " Maharashtra"
+    },
+    "Indian Association for the Blind": {
+        "type": "Differently Abled ",
+        "state": " Tamil Nadu"
+    },
+    "Society for Poor People Development": {
+        "type": "Children ",
+        "state": " Tamil Nadu"
+    },
+    "Miracle Foundation India": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Aarti for Girls": {
+        "type": "Children ",
+        "state": " Andhra Pradesh"
+    },
+    "J Watumull Global Hospital & Research Centre": {
+        "type": "Health ",
+        "state": " Rajasthan"
+    },
+    "Vikash": {
+        "type": "Differently Abled ",
+        "state": " Odisha"
+    },
+    "Disha Foundation": {
+        "type": "Differently Abled ",
+        "state": " Rajasthan"
+    },
+    "Janmitram Kalyan Samiti": {
+        "type": "Environment ",
+        "state": " Chhattisgarh"
+    },
+    "Kalinga Institute of Social Sciences": {
+        "type": "Education ",
+        "state": " Odisha"
+    },
+    "ETASHA": {
+        "type": "Livelihoods ",
+        "state": " Delhi"
+    },
+    "Jai Vakeel Foundation & Research Centre": {
+        "type": "Differently Abled ",
+        "state": " Maharashtra"
+    },
+    "Railway Children India": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Gunjan Foundation": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Kiran Society": {
+        "type": "Education ",
+        "state": " Uttar Pradesh"
+    },
+    "Majlis Manch": {
+        "type": "Women ",
+        "state": " Maharashtra"
+    },
+    "Raphael": {
+        "type": "Differently Abled ",
+        "state": " Uttarakhand"
+    },
+    "Sahaara, Mumbai": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Manuvikasa": {
+        "type": "Children ",
+        "state": " Karnataka"
+    },
+    "Guria India": {
+        "type": "Women ",
+        "state": " Uttar Pradesh"
+    },
+    "Sanskriti Samvardhan Mandal": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Marathwada Gramin Vikas Sanstha (MGVS)": {
+        "type": "Environment ",
+        "state": " Maharashtra"
+    },
+    "Shree Mahaganapati Hospital": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "MESCO Modern Educational Social & Cultural Organization": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Mission Smile": {
+        "type": "Health ",
+        "state": " Assam"
+    },
+    "Gram Chetna Kendra": {
+        "type": "Environment ",
+        "state": " Rajasthan"
+    },
+    "Nav Bharat Jagriti Kendra": {
+        "type": "Education ",
+        "state": " Jharkhand"
+    },
+    "Mumbai Mobile Creches": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Native Medicare Charitable Trust": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "The Akshaya Patra Foundation": {
+        "type": "Children ",
+        "state": " Rajasthan"
+    },
+    "Neptune Foundation": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Paripurnata Half-Way Home": {
+        "type": "Differently Abled ",
+        "state": " West Bengal"
+    },
+    "Protsahan": {
+        "type": "Livelihoods ",
+        "state": " Delhi"
+    },
+    "Psycho Educational Society": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "Purkal Youth Development Society": {
+        "type": "Education ",
+        "state": " Uttarakhand"
+    },
+    "Rural Development Foundation": {
+        "type": "Education ",
+        "state": " Andhra Pradesh"
+    },
+    "Rural Health Care Foundation": {
+        "type": "Health ",
+        "state": " West Bengal"
+    },
+    "Salaam Baalak Trust- Mumbai": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "SAMUHA": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Salaam Baalak Trust - Delhi": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Swades Foundation": {
+        "type": "Education ",
+        "state": " Raigad"
+    },
+    "Seva Sahayog Foundation": {
+        "type": "Health ",
+        "state": " Pune"
+    },
+    "Society of Community Health Oriented Operational Links (SCHOOL)": {
+        "type": "Elderly ",
+        "state": " Maharashtra"
+    },
+    "Samerth Charitable Trust": {
+        "type": "Education ",
+        "state": " Gujarat"
+    },
+    "Sapna": {
+        "type": "Children ",
+        "state": " Rajasthan"
+    },
+    "Sarada Ramkrishna (Sishu O Mahila) Sevashram": {
+        "type": "Women ",
+        "state": " West Bengal"
+    },
+    "Sathi, Bangalore": {
+        "type": "Children ",
+        "state": " Karnataka"
+    },
+    "Shramik Bharti": {
+        "type": "Women ",
+        "state": " Uttar Pradesh"
+    },
+    "ActionAid Association": {
+        "type": "Women ",
+        "state": " Delhi"
+    },
+    "Sikshana Foundation": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Cure International India Trust": {
+        "type": "Health ",
+        "state": " New Delhi"
+    },
+    "Social Action for Manpower Creation": {
+        "type": "Children ",
+        "state": " Rajasthan"
+    },
+    "Ritham Special School for the Mentally Challenged Children": {
+        "type": "Differently Abled ",
+        "state": " Tamil Nadu"
+    },
+    "Society of Friends of the Sassoon Hospitals (SOFOSH)": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Society For Womens education Economic Development (SWEED)": {
+        "type": "Women ",
+        "state": " Tamil Nadu"
+    },
+    "TANKER Foundation": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "The Banyan": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "Swadhar IDWC (Institute for Development of Women & Children)": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Mitra Jyothi": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "The hope house": {
+        "type": "Children ",
+        "state": " Tamil Nadu"
+    },
+    "Uma Educational & Technical Society, Kakinada(UETS)": {
+        "type": "Differently Abled ",
+        "state": " Andhra Pradesh"
+    },
+    "Vidya & Child": {
+        "type": "Education ",
+        "state": " Uttar Pradesh"
+    },
+    "Vatsalya, Jaipur": {
+        "type": "Education ",
+        "state": " Rajasthan"
+    },
+    "Hemophilia Federation (India)": {
+        "type": "Health ",
+        "state": " Delhi"
+    },
+    "VAANI, Deaf Children s Foundation": {
+        "type": "Differently Abled ",
+        "state": " Bangalore"
+    },
+    "Vizhuthukal Trust": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Sant Singaji Institute of Science & Management": {
+        "type": "Education ",
+        "state": " Madhya Pradesh"
+    },
+    "Wayanad Girijana Seva Trust": {
+        "type": "Education ",
+        "state": " Kerala"
+    },
+    "Share and Care Childrens Welfare Society": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "HelpAge India": {
+        "type": "Elderly ",
+        "state": " Delhi"
+    },
+    "Navasrushti International Trust (Dharma Bharathi Mission)": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Blind Welfare Council - Dahod": {
+        "type": "Differently Abled ",
+        "state": " Gujarat"
+    },
+    "Ola Foundation": {
+        "type": "Women ",
+        "state": " Karnataka"
+    },
+    "Antarang Foundation": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Rural Education and Development (READ) India": {
+        "type": "Education ",
+        "state": " Haryana"
+    },
+    "Technology Informatics Design Endeavour (TIDE)": {
+        "type": "Environment ",
+        "state": " Karnataka"
+    },
+    "Children of India Foundation": {
+        "type": "Children ",
+        "state": " Karnataka"
+    },
+    "SeSTA- Seven Sisters Development Assistance": {
+        "type": "Women ",
+        "state": " Assam"
+    },
+    "Association for Non-traditional Employment for Women (ANEW)": {
+        "type": "Livelihoods ",
+        "state": " Tamil Nadu"
+    },
+    "Sense International (India)": {
+        "type": "Differently Abled ",
+        "state": " Gujarat"
+    },
+    "Cheshire Homes India, Bangalore Unit": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Centre for Community Initiative (CCI)": {
+        "type": "Differently Abled ",
+        "state": " Manipur"
+    },
+    "Bethany Society": {
+        "type": "Education ",
+        "state": " Meghalaya"
+    },
+    "EKAM Foundation": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "KHUSHII (Kinship for Humanitarian Social Holistic Intervention in India)": {
+        "type": "Education ",
+        "state": " New Delhi"
+    },
+    "Tarkeybein": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "PRADAN": {
+        "type": "Livelihoods ",
+        "state": " Delhi"
+    },
+    "Sshrishti India Trust": {
+        "type": "Education ",
+        "state": " New Delhi"
+    },
+    "Guardians Of Dreams": {
+        "type": "Children ",
+        "state": " Bangalore"
+    },
+    "Muktangan": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Maitri India": {
+        "type": "Women ",
+        "state": " Delhi"
+    },
+    "Udhavum Ullangal Public Charitable Trust": {
+        "type": "Health ",
+        "state": " Tamil Nadu"
+    },
+    "Trust for Retailers and Retail Associates of India - (TRRAIN)": {
+        "type": "Differently Abled ",
+        "state": " Maharashtra"
+    },
+    "BOSCONET": {
+        "type": "Children ",
+        "state": " New Delhi"
+    },
+    "The American India Foundation": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "V-Excel Educational Trust": {
+        "type": "Differently Abled ",
+        "state": " Tamil Nadu"
+    },
+    "Team Everest": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Yuva Unstoppable": {
+        "type": "Education ",
+        "state": " Gujarat"
+    },
+    "Rainbow Foundation India": {
+        "type": "Children ",
+        "state": " Telangana"
+    },
+    "India Sponsorship Committee": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Human Capital For Third Sector": {
+        "type": "Women ",
+        "state": " Maharashtra"
+    },
+    "SKI Star Foundation": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Snehadeep Trust for the differently abled": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Khushboo Welfare Society": {
+        "type": "Differently Abled ",
+        "state": " Haryana"
+    },
+    "VISHWAS - Vision For Health Welfare and Special Needs": {
+        "type": "Education ",
+        "state": " Gurugram"
+    },
+    "The Leprosy Mission Trust India": {
+        "type": "Education ",
+        "state": " Delhi"
+    },
+    "National Association for the Blind, India": {
+        "type": "Differently Abled ",
+        "state": " Maharashtra"
+    },
+    "The Association of People with Disability": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Goonj": {
+        "type": "Environment ",
+        "state": " Delhi"
+    },
+    "Mahila Dakshata Samiti": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "ACCESS": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "ALERT-INDIA Association for Leprosy education, Rehabilitation & Treatment India": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Seva Mandir": {
+        "type": "Education ",
+        "state": " Rajasthan"
+    },
+    "Basic Research Education And Development (BREAD) Society": {
+        "type": "Education ",
+        "state": " Telangana"
+    },
+    "Swasthya Swaraj": {
+        "type": "Women ",
+        "state": " Odisha"
+    },
+    "Akanksha Public Charitable Trust": {
+        "type": "Education ",
+        "state": " Chhattisgarh"
+    },
+    "Atma Nirbhar-Ek Challenge": {
+        "type": "Differently Abled ",
+        "state": " Assam"
+    },
+    "Vidyarambam": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Abhinav": {
+        "type": "Environment ",
+        "state": " Uttar Pradesh"
+    },
+    "Drishti": {
+        "type": "Differently Abled ",
+        "state": " Uttar Pradesh"
+    },
+    "Karunashraya": {
+        "type": "Health ",
+        "state": " Karnataka"
+    },
+    "Manavlok": {
+        "type": "Elderly ",
+        "state": " Maharashtra"
+    },
+    "Quest Alliance": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Rajasthan Mahila Kalyan Mandal Sanstha (RMKM)": {
+        "type": "Livelihoods ",
+        "state": " Rajasthan"
+    },
+    "Community Action for Rural Development (CARD)": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Sri Arunodayam": {
+        "type": "Children ",
+        "state": " Tamil Nadu"
+    },
+    "Child Aid Foundation": {
+        "type": "Education ",
+        "state": " Andhra Pradesh"
+    },
+    "El Shaddai Charitable Trust": {
+        "type": "Education ",
+        "state": " Goa"
+    },
+    "Sukarya": {
+        "type": "Health ",
+        "state": " Haryana"
+    },
+    "Udayan Care": {
+        "type": "Children ",
+        "state": " Delhi"
+    },
+    "Voluntary Health Association of Tripura": {
+        "type": "Health ",
+        "state": " Tripura"
+    },
+    "IDEA Foundation": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Dignity Foundation": {
+        "type": "Elderly ",
+        "state": " Maharashtra"
+    },
+    "Akshara Centre": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "The Akanksha Foundation": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Kutumba": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Madhya Pradesh Viklang Sahayta Samiti": {
+        "type": "Differently Abled ",
+        "state": " Madhya Pradesh"
+    },
+    "Manav Vikas Seva Sangh": {
+        "type": "Women ",
+        "state": " Madhya Pradesh"
+    },
+    "Association for the Mentally Challenged": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Samarthanam Trust for the Disabled": {
+        "type": "Differently Abled ",
+        "state": " Karnataka"
+    },
+    "Positive Women Network of Rajasthan": {
+        "type": "Health ",
+        "state": " Rajasthan"
+    },
+    "Rajasthan Bal Kalyan Samiti": {
+        "type": "Education ",
+        "state": " Rajasthan"
+    },
+    "Sevalaya": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Shoshit Seva Sangh": {
+        "type": "Education ",
+        "state": " Bihar"
+    },
+    "Snehalaya": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "St Jude India Childcare Centres": {
+        "type": "Children ",
+        "state": " Maharashtra"
+    },
+    "Asha Kiran": {
+        "type": "Education ",
+        "state": " Andhra Pradesh"
+    },
+    "Vidya Bhawan Society": {
+        "type": "Education ",
+        "state": " Rajasthan"
+    },
+    "Vidya Poshak": {
+        "type": "Education ",
+        "state": " Karnataka"
+    },
+    "Vimukti Sanstha": {
+        "type": "Education ",
+        "state": " Rajasthan"
+    },
+    "Visamo Kids Foundation": {
+        "type": "Children ",
+        "state": " Gujarat"
+    },
+    "Shraddhanand Mahilashram": {
+        "type": "Elderly ",
+        "state": " Maharashtra"
+    },
+    "Vidhayak Sansad": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    },
+    "Annai Charitable & educational Trust": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Isha Education": {
+        "type": "Education ",
+        "state": " Tamil Nadu"
+    },
+    "Cuddles Foundation": {
+        "type": "Health ",
+        "state": " Maharashtra"
+    },
+    "Community Outreach Programme (CORP)": {
+        "type": "Education ",
+        "state": " Maharashtra"
+    }
+}

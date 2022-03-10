@@ -1,0 +1,40 @@
+{
+   "student": {
+      "1": {
+         "Fname": "Aarif",
+         "Lname": "alam",
+         "email": "ariffulalam7@gmail.com",
+         "password": "#Aarif36"
+      },
+      "2": {
+         "Fname": "Akash",
+         "Lname": "tigga",
+         "email": "akashtigga@gmail.com",
+         "password": "#Akash54"
+      },
+      "3": {
+         "Fname": "Rahul",
+         "Lname": "saryam",
+         "email": "rahulsaryam727@gmail.com",
+         "password": "#Rahul727"
+      },
+      "4": {
+         "Fname": "pawan",
+         "Lname": "kumar",
+         "email": "pawankumars2255@gmail.com",
+         "password": "#Pawan2255"
+      },
+      "5": {
+         "Fname": "Rahul",
+         "Lname": "pandit",
+         "email": "rk308238@gmail.com",
+         "password": "#Rahul308238"
+      },
+      "6": {
+         "Fname": "Vivek",
+         "Lname": "sinha",
+         "email": "viveksinha234@gmail.com",
+         "password": "#Vivek234"
+      }
+   }
+}
